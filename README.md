@@ -11,6 +11,7 @@ See each plugin readme for more info and usage instructions.
 | [Codefresh Cli](https://github.com/codefresh-plugins/codefresh-cli/README.md) | Operate on Codefresh resources | `cli` `codefresh`|
 | [Slack](https://github.com/codefresh-plugins/slack/README.md)| Send message to slack| `slack` `notify`|
 | [Deploy to ECS](https://github.com/codefresh-plugins/ecs-deploy/README.md)| Deploy docker image to ECS| `ecs` `deploy` `containers` `aws`                         |
+| [Annotate Gitlab Merge](https://github.com/codefresh-plugins/cf-gitlab-mr-annotate/README.md) | Annotate GitLab Merge Requests | `git` `gitlab` `ci`   |
 | [Deploy Kompose](https://github.com/codefresh-plugins/kompose/README.md)| Deploy Docker Compose to Kubernetes cluster with Kubernetes [Kompose](http://kompose.io) | `docker` `docker-compose` `kompose` `deploy` `kubernetes` |
 | [GitHub PR](https://github.com/codefresh-plugins/github-pr/README.MD)| Operates on pull requests on GitHub | `github` `pull-request` |
 | [Run Jenkins Jobs](https://github.com/codefresh-plugins/cf-run-jenkins-jobs/README.md)| Run jenkins job from codefresh pipeline| `jenkins` `job`|
