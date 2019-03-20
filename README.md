@@ -14,7 +14,7 @@ See each plugin readme for more info and usage instructions.
 | [Deploy Kompose](https://github.com/codefresh-plugins/kompose/README.md)| Deploy Docker Compose to Kubernetes cluster with Kubernetes [Kompose](http://kompose.io) | `docker` `docker-compose` `kompose` `deploy` `kubernetes` |
 | [GitHub PR](https://github.com/codefresh-plugins/github-pr/README.MD)| Operates on pull requests on GitHub | `github` `pull-request` |
 | [Run Jenkins Jobs](https://github.com/codefresh-plugins/cf-run-jenkins-jobs/README.md)| Run jenkins job from codefresh pipeline| `jenkins` `job`|
-| [Deploy to DCOS](https://github.com/codefresh-plugins/dcos-app-deploy/README.md) | Deploy application image to DC/OS cluster | `dcos` `deploy` `containers` |
+| [Deploy to DCOS](https://github.com/codefresh-plugins/cf-deploy-dcos/README.md) | Deploy application image to DC/OS cluster | `dcos` `deploy` `containers` |
 | [Interact with Jira](https://github.com/codefresh-plugins/jira-cli/README.md) | Interact with Jira from codefresh pipelines| `jira` `workflow`|
 | [Makisu](https://github.com/codefresh-plugins/makisu/README.md) | Building images using the Makisu tool | `makisu` `uber`|
 | [release to npm](https://github.com/codefresh-plugins/release-to-NPM/README.md) | Release npm modules from a pipeline | `npm` |
